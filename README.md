@@ -1,5 +1,6 @@
-# ECEN-404
-iPHONE-MULTIMETER
+#iPHONE-MULTIMETER 
+
+Class: ECEN404
 
 Frontend Subsystem - Swift, PHP, MySQL, Bluetooth Connectivity
 
